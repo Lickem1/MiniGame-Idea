@@ -1,0 +1,5 @@
+name: MiniGame-Idea
+author: Lickem
+description: Just a sample plugin/template for creating and handling a variety of minigames.
+main: tk.lickem.minigameidea.Plugin
+version: 1.0.0
